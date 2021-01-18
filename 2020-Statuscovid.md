@@ -1,0 +1,3 @@
+# Brief
+
+Coronavirus prep is a single page website that I made for getting an understanding of the coronavirus situation. Since, there are so many blogs and related information about this topic, but people who wanted to understand what the virus was and how to effectively prevent it quickly were missing. With this app you can minimize the time to understand coronavirus and maximize the likelihood of understanding how to prevent and transmit it further. There is also a timeline on the growth rate on a day to day basis for the residents of India.  The project was built from scratch by me using Next.js and some external APIs.

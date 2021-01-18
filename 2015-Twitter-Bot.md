@@ -119,4 +119,4 @@ Switch from a webapp to a bot + run the service 24x7
 
 5. Deployed the app on heroku and changed the Twitter AUTH url.
 
-6. Hardest problems here were in **deployment**, consuming the data and tweeting weren't really a problem.
+6. Hardest problems here was in **deployment**, consuming the data and tweeting weren't really a problem.

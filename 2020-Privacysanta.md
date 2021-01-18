@@ -1,0 +1,3 @@
+# Brief
+
+Privacysanta is a webapp to generate a privacy policy for your website.Generate privacy policy compliant with GDPR/CCPA. Internally, privacy santa has multiple rules which are based on GDPR, and was a turnkey SaaS tool to generate based on user inputs while making sure it was compliant with GDPR. The struggle was in going through GDPR rules and turning them into actual forms and rendering conditionally. The project was built from scratch by me using Next.js and Firebase.

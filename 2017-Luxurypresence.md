@@ -1,0 +1,3 @@
+# Brief
+
+Luxury presence is a company which provides real estate agents with stunning websites. They lacked reusable components which could help building websites faster.  So we built components on react which can be reused.  Providing these individual component with their settings which can be changed from its dashboard so it’s easier to configure the component for someone who doesn’t understand coding. Page settings for example, if you want to build the ‘/about’ page it would just take 5-10 mins to build one by simply adding the components you’d need.

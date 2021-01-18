@@ -1,0 +1,3 @@
+# Brief
+
+Stanza is a webapp (stanza.co) which aggregates sports calendars for users. Users would subscribe to teams and the team calendars get synced to google calendar with stanza and also there would be additional information like tickets for the match etc., We were working on the dashboard part of stanza, a dashboard for managing their scrapers.  I made that part of stanza from scratch, they only had designs and rough ideas on what the essential things would be, with one to one communications with clients over weeks we made the scraper dashboard with react ,redux and express server on the backend(node). 
