@@ -1,6 +1,6 @@
 # Overview
 
-Have been working professionally since 2016, prior I was building projects.
+Have been working professionally since 2016, was doing side-projects from 2012.
 
 This repository is to consolidate all of my work from a technical perspective, what the hardest problems in those projects were. How I accomplished them and what I can use for the next project.
 
