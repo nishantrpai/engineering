@@ -1,6 +1,6 @@
 # Overview
 
-Have been working professionally since 2016, was doing side-projects from 2012.
+Have been working professionally since 2016, was doing side-projects from 2012 (not present in this document).
 
 This repository is to consolidate all of my technical work:
 
