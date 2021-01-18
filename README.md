@@ -2,7 +2,13 @@
 
 Have been working professionally since 2016, was doing side-projects from 2012.
 
-This repository is to consolidate all of my work from a technical perspective, what the hardest problems in those projects were. How I accomplished them and what I can use for the next project.
+This repository is to consolidate all of my technical work:
+
+1. What the hardest problems in those projects were. 
+
+2. How I accomplished them? 
+
+3. What lessons can be applied from these to future projects?
 
 Current Tech Stack:
 <div style="display:flex">
