@@ -28,3 +28,42 @@ Doing responsive CSS for the website
     }
 }
 ```
+
+## Problem
+
+Taking the JSON data as input, render components.
+Parser from JSON -> Components -> HTML
+
+For e.g.,
+```
+{{
+    component: 'Header'
+    props: {
+        'Heading': 'Value',
+        'Subheading': 'Sub-heading'
+    }
+    children: [
+        {
+            component: ''
+
+        }
+    ]
+    }
+}
+```
+
+## Solution
+1. Common folder structure was required.
+
+2. When the webpack builds the website, you have to deserialize
+
+3. We had an internal mapping of keys and components, to import. The problem with this approach was all elements were renderred regardless of whether we were using them or not (wasn't resolved). A better approach would have been dynamic imports or lazy imports, although we were on the point of no return, the codebase was responsible for around 10-20 popular real estate websites, so making any changes would mean bugs in all of them. We kept that in the backlog.
+
+
+4. If you want to understand this problem better, this [blog](https://www.storyblok.com/tp/react-dynamic-component-from-json) does a good job explaining how to accomplish this.
+5. Also to resolve, children we used graph DFS approach:
+```
+  const renderComponent = (block) => {
+      <Component[block.component] {block.props} > -> {renderComponent(block.children)} -> </Component[block.component]>
+   }
+```
