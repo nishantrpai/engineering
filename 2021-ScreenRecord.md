@@ -98,5 +98,4 @@ Output: Recording the stream
 Output: Allow the user to edit the frames to remove or add any section
 
 ## Solution
-- 
-
+*Haven't looked into it*
