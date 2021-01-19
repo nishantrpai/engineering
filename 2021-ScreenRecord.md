@@ -1,7 +1,7 @@
 ## Brief
 Record the entire screen using [Screencast](https://knowledge.autodesk.com/community/screencast). 
 
-Fusion 360 wants to allow its users to record screens online and standalone.
+Fusion 360 wants to create a software that allows their users to record and share the videos to the Autodesk Forum/Youtube.
 
 What problems you'd have to solve to match the initial app:
 
