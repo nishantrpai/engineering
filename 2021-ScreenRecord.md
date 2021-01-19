@@ -88,14 +88,15 @@ Input: Capture video from camera
 1. Solved with `Navigator` `getDisplayMedia` options
 
 ## Problem
-Output: Combine all frames and present the viewer
+Output: Recording the stream
 
 ## Solution
+1. The `MediaStream` recorded from `Navigator` can be recorded, not sure but I've seen an implementation [here](https://stackoverflow.com/questions/16319470/html5-getusermedia-record-webcam-both-audio-and-video). Need to look into this one.
 
 
 ## Problem
 Output: Allow the user to edit the frames to remove or add any section
 
 ## Solution
-
+- 
 
