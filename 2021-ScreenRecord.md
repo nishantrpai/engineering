@@ -1,9 +1,11 @@
 ## Brief
 Record the entire screen using [Screencast](https://knowledge.autodesk.com/community/screencast). 
 
-Fusion 360 a software wants to allow its users to record screens online and standalone.
+Fusion 360 wants to allow its users to record screens online and standalone.
 
 What problems you'd have to solve to match the initial app:
+
+Stack: React.js
 
 ## Problem
 Input: Capture each screen frame from the screen
