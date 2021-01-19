@@ -15,7 +15,9 @@ Input: Capture each screen frame from the screen
 
 ```
     let displayMediaOptions = {video: true, audio: true } //can configure based on user inputs
-    window.navigator.mediaDevices.getDisplayMedia(displayMediaOptions)
+    window.navigator.mediaDevices.getDisplayMedia(displayMediaOptions).then((stream) => {
+        //record this mediastream
+    })
 ```
 
 
@@ -88,9 +90,12 @@ Input: Capture video from camera
 ## Problem
 Output: Combine all frames and present the viewer
 
+## Solution
 
 
 ## Problem
 Output: Allow the user to edit the frames to remove or add any section
+
+## Solution
 
 
