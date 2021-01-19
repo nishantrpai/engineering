@@ -67,3 +67,15 @@ For e.g.,
       <Component[block.component] {block.props} > -> {renderComponent(block.children)} -> </Component[block.component]>
    }
 ```
+
+## Problem
+Mapping json for domain name
+
+## Solution
+1. For each website there was a domain associated with it for e.g.,
+```
+{
+    'website_title': 'Title',
+    'website_domain': domain.com
+}
+```
