@@ -37,7 +37,7 @@ The problem was the next action was triggered with a similar key.
 
 After hours of debugging, finally fixed it.
 
-4. Reasons why this happened:
+Reasons why this happened:
 
 a. Large codebase: It was responsible for making sure you could generate an ecommerce site.
 
